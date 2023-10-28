@@ -1,0 +1,6 @@
+Requirement already satisfied: black in /Users/lucasmorrone/anaconda3/lib/python3.11/site-packages (0.0)
+Requirement already satisfied: click>=8.0.0 in /Users/lucasmorrone/anaconda3/lib/python3.11/site-packages (from black) (8.0.4)
+Requirement already satisfied: mypy-extensions>=0.4.3 in /Users/lucasmorrone/anaconda3/lib/python3.11/site-packages (from black) (0.4.3)
+Requirement already satisfied: packaging>=22.0 in /Users/lucasmorrone/anaconda3/lib/python3.11/site-packages (from black) (23.0)
+Requirement already satisfied: pathspec>=0.9.0 in /Users/lucasmorrone/anaconda3/lib/python3.11/site-packages (from black) (0.10.3)
+Requirement already satisfied: platformdirs>=2 in /Users/lucasmorrone/anaconda3/lib/python3.11/site-packages (from black) (3.11.0)
